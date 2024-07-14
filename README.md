@@ -1,5 +1,5 @@
 # Introduction
-This warehouse introduces the research field of remote sensing that I am good at:
+This repositorie introduces the research field of remote sensing that I am good at:
 
 1. Inversion of remote sensing land surface temperature data.
 Landsat satellite data, MODIS satellite data, ASTER satellite data and ECOSTRESS satellite data.
